@@ -1,3 +1,7 @@
+# Hactoberfest App
+
+I made a Hacktoberfest App that anyone can make a PR to. All PR's will be approved as long as it results in a working website.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

@@ -18,7 +18,7 @@ function Header() {
                             <Link className="nav-item nav-link" to="/about">About</Link>
                         </li>
                         <li className="nav-item">
-                            <a className="nav-item nav-link" href="https://github.com/imyjimmy/hacktoberfest-app" target="_blank">Fork Me!</a>
+                            <a className="nav-item nav-link" href="https://github.com/imyjimmy/hacktoberfest-app" target="_blank" rel="noopener noreferrer">Fork Me!</a>
                         </li>
                     </ul>
                 </div>

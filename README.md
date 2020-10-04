@@ -4,6 +4,8 @@ I made a Hacktoberfest App that anyone can make a PR to. All PR's will be approv
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Deploys to https://confident-banach-9919eb.netlify.app/
+
 ## Available Scripts
 
 In the project directory, you can run:

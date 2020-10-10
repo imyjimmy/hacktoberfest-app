@@ -1,6 +1,6 @@
 import React from 'react';
 
-function Home(){
+const Home = () =>{
     return (
         <div className="container">
             <p>Hactoberfest <a href="https://github.com/imyjimmy/hacktoberfest-app">Repo</a>. I will approve all PR's*.</p>

@@ -8,7 +8,7 @@ const styles = {
   },
 };
 
-function Header() {
+const Header = () => {
   return (
     <div>
       <nav className="navbar navbar-expand-lg navbar-light bg-light">

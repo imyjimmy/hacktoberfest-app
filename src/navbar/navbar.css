@@ -1,0 +1,8 @@
+.navbar-nav {
+  display: flex;
+  width: 100%;
+}
+
+.menu-dropdown-btn {
+  margin-left: auto;
+}

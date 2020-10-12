@@ -1,12 +1,7 @@
 import React from "react";
 import { Link } from "react-router-dom";
 import DropDown from "./Dropdown";
-
-const styles = {
-  dropdown: {
-    marginLeft: "280%",
-  },
-};
+import './navbar.css'
 
 const Header = () => {
   return (
@@ -48,7 +43,7 @@ const Header = () => {
                 Fork Me!
               </a>
             </li>
-            <li style={styles.dropdown}>
+            <li className="menu-dropdown-btn">
               <DropDown />
             </li>
           </ul>

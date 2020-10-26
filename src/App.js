@@ -1,5 +1,5 @@
 import React from 'react';
-import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
+import { Router, Route, Switch } from "react-router-dom";
 import Header from './navbar/Header';
 import Home from './Home';
 import About from './About';
@@ -16,7 +16,7 @@ function App() {
             <Home/>
           </Route>
           <Route path="/about">
-            <About/>
+            <About>Hacktoberfest happens on October, and what happens on October is Hacktobefest. This fest is hosted every year of October.</About>
           </Route>
         </Switch>
         <Footer/>
